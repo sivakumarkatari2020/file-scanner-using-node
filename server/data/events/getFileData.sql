@@ -1,0 +1,5 @@
+SELECT [id]
+    ,[f_name]
+    ,[contents]
+    ,[f_path]
+FROM [dbo].[fileData]
